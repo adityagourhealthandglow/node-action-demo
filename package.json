@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "registry":"https://registry.npmjs.org/@adityagourhealthandglow/"
+    "registry":"https://npm.pkg.github.com/@adityagourhealthandglow/"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
